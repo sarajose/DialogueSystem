@@ -1,0 +1,22 @@
+=== questions ===
+
+* ["Did you know any of the people involved in the robbery?"]
+    ->q1
+* ["Does you or your friends have an alibi?"]
+    ->q2
+* ["What did you do yesterday?"]
+    ->q3
+* ["How does your partner feel about your son?"]
+    ->q4
+* ["Tell me about your partner?"]
+    ->q5
+* ["What happened in your son’s birthdays?"]
+    ->q6
+* ["When did the kidnapper call?"]
+    ->q7
+* ["Tell me about your sister?"]
+    ->q8
+* ["well"]
+    ->q9
+* ["not well"]
+    ->q10
